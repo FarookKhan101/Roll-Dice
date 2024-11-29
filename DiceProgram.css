@@ -1,0 +1,28 @@
+#container
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+button{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: rgb(129, 244, 206);
+    border: 10px;
+    cursor: pointer;
+}
+img{
+    size: 25px;
+}
+
+body{
+    background-color: wheat;
+}
+#numOfDice{
+    font-size: 1.4rem;
+    text-align: center;
+    border: 10px;
+    border-radius: 10px;
+}
